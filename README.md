@@ -1,4 +1,7 @@
 # Kotlin
+[1]AndroidStudio入門 - プロジェクトの作成と実行
+https://www.youtube.com/watch?v=3cUg63S__oo
+
 【Android Studio】アプリアイコンの設定をしよう！
 https://blog.8bit.co.jp/?p=19200
 
