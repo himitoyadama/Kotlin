@@ -1,4 +1,7 @@
 # Kotlin
+Kotlin(Android)で、メソッド呼び出しのタイミングでIllegalArgumentExceptionを発生させてみる
+https://www.youtube.com/watch?v=rRpGVXgGtR0
+
 [1]AndroidStudio入門 - プロジェクトの作成と実行
 https://www.youtube.com/watch?v=3cUg63S__oo
 
