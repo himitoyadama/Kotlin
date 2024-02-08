@@ -1,4 +1,7 @@
 # Kotlin
+3分で学ぶ Android Studio 【アプリアイコンの変更】
+https://www.youtube.com/watch?v=7sieNmYhku0
+
 Kotlin(Android)で、メソッド呼び出しのタイミングでIllegalArgumentExceptionを発生させてみる
 https://www.youtube.com/watch?v=rRpGVXgGtR0
 
