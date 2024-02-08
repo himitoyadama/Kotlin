@@ -11,3 +11,5 @@ https://blog.8bit.co.jp/?p=19200
 【Kotlin】WebViewでアプリ内にWebページを表示する方法
 https://hiyoko-programming.com/1977/
 
+【Kotlin超入門コース】06.変数 ｜変数は、例えるなら「箱」のこと。
+https://www.youtube.com/watch?v=1FaUUCGFi5E&list=PLavQwENTsEBXTfQ8HXdknKFOeF4fkgEE2&index=7
