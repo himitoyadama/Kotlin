@@ -1,4 +1,7 @@
 # Kotlin
+【初心者向け】Android Studioでアプリアイコンの設定をしよう！
+https://www.youtube.com/watch?v=LV-AXc3MZyw
+
 3分で学ぶ Android Studio 【アプリアイコンの変更】
 https://www.youtube.com/watch?v=7sieNmYhku0
 
