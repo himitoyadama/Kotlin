@@ -1,4 +1,7 @@
 # Kotlin
+Kotlinのコマンドライン実行
+https://qiita.com/forests-k/items/bdb759f6fb4e9ff11e60
+
 【たった1時間で学べる】Kotlinのプログラミング初心者向けの超入門講座【文字書き起こし、ソースコードも完全無料】
 https://m.youtube.com/watch?v=UswtcJlDZ3I
 
