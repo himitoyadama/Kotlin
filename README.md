@@ -1,4 +1,7 @@
 # Kotlin
+【たった1時間で学べる】Kotlinのプログラミング初心者向けの超入門講座【文字書き起こし、ソースコードも完全無料】
+https://m.youtube.com/watch?v=UswtcJlDZ3I
+
 【初心者向け】Android Studioでアプリアイコンの設定をしよう！
 https://www.youtube.com/watch?v=LV-AXc3MZyw
 
