@@ -1,4 +1,7 @@
 # Kotlin
+誰もが一度はつまずくSpring Bootを解説♪-アノテーション編(Part1)-【若手Javaエンジニア向け】
+https://m.youtube.com/watch?v=SfPiK0nagQ4
+
 Kotlin で Spring Boot Web アプリケーションの作成
 https://spring.pleiades.io/guides/tutorials/spring-boot-kotlin
 
